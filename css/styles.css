@@ -1,5 +1,5 @@
 html, header, input{
-    background:#F6F9F9;
+    background:#F1F9F9;
     color:#9EB1B1;
     font-family: 'Courgette', cursive;
 }
@@ -10,7 +10,8 @@ header{
     height: 80px;
     position: fixed;
     z-index:200;
-    border-bottom: dashed 1px lightgrey;  
+    border-bottom: double 5px lightgrey; 
+    box-shadow: 2px 1px 12px 1px grey;
 }
 a{
 text-decoration: none;
